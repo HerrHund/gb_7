@@ -51,3 +51,4 @@ print(coat.get_sq_full)
 print(jacket.get_sq_full)
 print(jacket.get_square_c())
 print(jacket.get_square_j())
+
